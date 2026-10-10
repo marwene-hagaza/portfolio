@@ -21,7 +21,7 @@ export class MyProjectsComponent {
       title: 'CollabTask — Plateforme Collaborative de Pilotage de Tâches',
       stack: 'Angular · Spring Boot · MySQL',
       description:
-        'Plateforme collaborative de pilotage de tâches avec Dashboard Admin, création et assignation des tâches, gestion des priorités, statuts TODO/DONE et suivi en temps réel avec notifications email.',
+        'A collaborative task management platform featuring an admin dashboard, task creation and assignment, priority management, TODO/DONE status tracking, and real-time progress monitoring. Features include task categorization, reporting, and integration with other tools.',
       image: 'assets/experience/Admin Dashboard.png',
     },
     {

@@ -32,6 +32,11 @@
                 "glob": "*.{png,jpeg,jpg}",
                 "input": "src/app/pages/experience",
                 "output": "assets/experience"
+              },
+              {
+                "glob": "favicon.png",
+                "input": "src/app",
+                "output": "."
               }
             ],
             "styles": [
